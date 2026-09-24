@@ -11,5 +11,5 @@ tags:
 - education
 upforgrabs:
   name: good first issue
-  link: https://github.com/wislertt/leetcode-py/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22
+  link: https://github.com/wislertt/leetcode-py/labels/good%20first%20issue
 ---
